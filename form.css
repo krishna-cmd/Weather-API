@@ -1,0 +1,54 @@
+Body {
+    background-image: url(download.jfif);
+    background-color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+
+ }
+ h1 {
+    color:black;
+    font-size: 100px;
+    /* width: 200px;
+    height: 50px;
+    position: center; */
+    margin-left:580px;
+    margin-right: 900px;
+    margin-top: 50px;
+    /* background-color:WHITE; */
+ }
+ form {
+    /* background-image: url(download.jfif);  */
+   border-radius:10px;
+    /* background-color: turquoise; */
+    border: black solid 5px ;
+    width: 1000px;
+    margin-left:600px;
+    margin-right:850px;
+    width:300px;
+ }
+ input{
+    padding: 20px;
+    border:black solid 5px;
+    border-radius: 9px;
+    margin:10px;
+ }
+ label{
+    font-size: 30px;
+ }
+ input:focus{
+    background:palegreen;
+ }
+ button{
+    
+    height: 50px;
+    width: 100px;
+    margin-left: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid black 5px;
+    border-radius: 9px;
+    
+ }
+ button:focus{
+    background:darkslategrey;
+ }
